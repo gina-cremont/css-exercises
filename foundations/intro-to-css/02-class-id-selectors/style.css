@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.coral {
+    background-color: lightcoral;
+}
+
+#blue-large {
+    color: blue;
+    font-size: 32px;
+}
+
+.coral.large-font {
+    font-size: 22px;
+}
+
+#number-four {
+    background-color: lightgreen;
+    font-size: 18px;
+    font-weight: bold;
+}

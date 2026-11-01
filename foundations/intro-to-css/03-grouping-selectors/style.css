@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.main,
+.secondary {
+    font-family: Helvetica;
+    font-size: 28px
+}
+
+.main {
+    background-color: black;
+    color:white;
+    font-weight: bold;
+}
+
+.secondary {
+    background-color: yellow;
+}
